@@ -1,9 +1,5 @@
 ## Hi there 👋
 
-### 💻 Most Used Languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=RyzYuuki&theme=vision-friendly)](https://github.com/anuraghazra/github-readme-stats)
-
 
 <!--
 **RyzYuuki/RyzYuuki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
